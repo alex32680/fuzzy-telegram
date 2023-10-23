@@ -1,0 +1,38 @@
+.navbar-title{
+    text-align: center;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.instagram-post-box {
+    width: 421px;
+    background: white;
+    margin: auto;
+}
+.post-header-box {
+    display: flex;
+    height: 33px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+img {
+    width: 100%;
+}
+
+
+body {
+    background: gray;
+    margin: 0px;
+}
+.post-title {
+    padding-left: 10px;
+}
+.page-numbers {
+    padding-right: 10px
+}
+p {
+    padding: 10px
+}
+
